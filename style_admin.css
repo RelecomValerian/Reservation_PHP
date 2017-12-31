@@ -1,0 +1,66 @@
+body 
+{
+	background-image:url(images/admin.jpg);
+}
+
+.button_1
+{
+	color:#FFF;
+	border-radius:7px;
+	background:#97A0A8;
+	width:100px;
+	font: bold 13px Calibri;
+	padding: 5px 5px 5px 5px;
+	border:none;
+}
+
+.button_2
+{
+	color:#FFF;
+	border-radius:7px;
+	background:#05e320;
+	width:100px;
+	font: bold 13px Calibri;
+	padding: 5px 5px 5px 5px;
+	border:none;
+}
+
+.button_3
+{
+	color:#FFF;
+	border-radius:7px;
+	background:#fc0c00;
+	width:100px;
+	font: bold 13px Calibri;
+	padding: 5px 5px 5px 5px;
+	border:none;
+}
+
+form
+{
+	margin: 0 auto;
+	witdh: 400px;
+	border:2px solid #CCC;
+	border-radius: 7px;
+}	
+	
+input, textarea
+{
+	border: 1px solid #CCC;
+}
+
+table
+{
+	margin: 0 auto;
+	width: 400px;
+	border:2px solid #CCC;
+	text-align:center;
+	background:white;
+}
+
+th, td
+{
+	height: 24px;
+	padding:4px;
+	vertical-align:middle;
+}
